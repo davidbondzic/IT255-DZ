@@ -1,0 +1,11 @@
+{
+  "rooms": [
+    {
+      "id": "2d1b",
+      "naziv": "Soba122",
+      "klima": false,
+      "miniBar": true,
+      "sauna": false
+    }
+  ]
+}
